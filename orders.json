@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "customer_name": "Nguyễn Văn An",
+    "customer_email": "nguyenvanan@gmail.com",
+    "total_amount": 1618000,
+    "status": "completed",
+    "created_at": "2026-11-14T08:45:00.000Z",
+    "updated_at": "2026-11-14T02:26:27.276Z"
+  },
+  {
+    "id": 2,
+    "customer_name": "Trần Thị Bình",
+    "customer_email": "binhtran@gmail.com",
+    "total_amount": 420000,
+    "status": "completed",
+    "created_at": "2026-11-14T09:00:00.000Z",
+    "updated_at": "2026-11-14T09:05:00.000Z"
+  },
+  {
+    "id": 3,
+    "customer_name": "Lê Thị Thu",
+    "customer_email": "lethu@gmail.com",
+    "total_amount": 1198000,
+    "status": "pending",
+    "created_at": "2026-11-14T02:25:06.061Z",
+    "updated_at": "2026-11-14T02:25:06.061Z"
+  }
+]

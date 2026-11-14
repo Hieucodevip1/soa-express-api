@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "order_id": 1,
+    "product_id": 1,
+    "product_name": "Bàn phím cơ DareU EK87",
+    "quantity": 2,
+    "unit_price": 599000,
+    "total_price": 1198000
+  },
+  {
+    "id": 2,
+    "order_id": 1,
+    "product_id": 2,
+    "product_name": "Chuột Gaming Logitech G102",
+    "quantity": 1,
+    "unit_price": 420000,
+    "total_price": 420000
+  },
+  {
+    "id": 3,
+    "order_id": 2,
+    "product_id": 2,
+    "product_name": "Chuột Gaming Logitech G102",
+    "quantity": 1,
+    "unit_price": 420000,
+    "total_price": 420000
+  },
+  {
+    "id": 4,
+    "order_id": 3,
+    "product_id": 1,
+    "product_name": "Bàn phím cơ DareU EK87",
+    "quantity": 2,
+    "unit_price": 599000,
+    "total_price": 1198000
+  }
+]
