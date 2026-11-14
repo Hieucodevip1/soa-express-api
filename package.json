@@ -1,11 +1,14 @@
 {
   "name": "soa-express-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "SOA Express API - Auth & Product Services",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "start:product": "node product-service.js",
+    "dev:product": "nodemon product-service.js",
+    "test": "node test-services.js"
   },
   "keywords": [],
   "author": "",

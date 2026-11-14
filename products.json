@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Bàn phím cơ DareU EK87",
+    "description": "Bàn phím cơ Tenkeyless 87 phím, switch D-Red, LED Rainbow",
+    "price": 599000,
+    "quantity": 25,
+    "created_at": "2026-11-14T08:00:00.000Z",
+    "updated_at": "2026-11-14T08:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Chuột Gaming Logitech G102",
+    "description": "Chuột gaming 8000 DPI, LED RGB 16.8 triệu màu, 6 nút bấm",
+    "price": 420000,
+    "quantity": 40,
+    "created_at": "2026-11-14T08:15:00.000Z",
+    "updated_at": "2026-11-14T08:15:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Tai nghe Gaming HyperX Cloud Stinger",
+    "description": "Tai nghe over-ear, màng loa 50mm, micro khử ồn",
+    "price": 890000,
+    "quantity": 15,
+    "created_at": "2026-11-14T08:30:00.000Z",
+    "updated_at": "2026-11-14T08:30:00.000Z"
+  }
+]
