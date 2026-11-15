@@ -1,7 +1,7 @@
 {
   "name": "soa-express-api",
   "version": "1.0.0",
-  "description": "SOA Express API - Auth, Product & Order Services",
+  "description": "SOA Express API - Auth, Product, Order & Reporting Services",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -10,6 +10,8 @@
     "dev:product": "nodemon product-service.js",
     "start:order": "node order-service.js",
     "dev:order": "nodemon order-service.js",
+    "start:report": "node report-service.js",
+    "dev:report": "nodemon report-service.js",
     "test": "node test-services.js"
   },
   "keywords": [],

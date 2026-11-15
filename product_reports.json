@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "order_report_id": 1,
+    "product_id": 1,
+    "total_sold": 2,
+    "revenue": 1198000,
+    "cost": 838600,
+    "profit": 359400,
+    "created_at": "2026-11-14T09:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "order_report_id": 1,
+    "product_id": 2,
+    "total_sold": 1,
+    "revenue": 420000,
+    "cost": 294000,
+    "profit": 126000,
+    "created_at": "2026-11-14T09:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "order_report_id": 2,
+    "product_id": 2,
+    "total_sold": 1,
+    "revenue": 420000,
+    "cost": 294000,
+    "profit": 126000,
+    "created_at": "2026-11-14T09:10:00.000Z"
+  },
+  {
+    "id": 4,
+    "order_report_id": 3,
+    "product_id": 2,
+    "total_sold": 1,
+    "revenue": 420000,
+    "cost": 250000,
+    "profit": 170000,
+    "created_at": "2026-11-14T02:44:53.647Z"
+  },
+  {
+    "id": 5,
+    "order_report_id": null,
+    "product_id": 1,
+    "product_name": "Bàn phím cơ DareU EK87",
+    "stock_quantity": 23,
+    "total_sold": 4,
+    "revenue": 2396000,
+    "cost": 1557400,
+    "profit": 838600,
+    "created_at": "2026-11-14T02:45:09.504Z"
+  }
+]
